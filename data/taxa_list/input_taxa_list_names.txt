@@ -1,5 +1,3 @@
-
-taxon_name_original
 Abarema josephi
 Abelia biflora
 Abelia chinensis
@@ -314,7 +312,7 @@ Aerides odorata
 Aerides rubescens
 Aerides sp.
 Aerococcus micranthus
-Aesculus 
+Aesculus
 Aesculus flava
 Aesculus glabra
 Aesculus hippocastanum
@@ -371,7 +369,7 @@ Agapanthus inapertus
 Agapanthus praecox
 Agapanthus sp.
 Agapetes serpens
-Agapetes serpens 
+Agapetes serpens
 Agastache cana
 Agastache foeniculum
 Agastache hybr.
@@ -1689,7 +1687,7 @@ Astilbe glaberrima
 Astilbe grandis
 Astilbe hybr.
 Astilbe chinensis
-Astilbe chinensis 
+Astilbe chinensis
 Astilbe japonica
 Astilbe koreana
 Astilbe longicarpa
@@ -1702,7 +1700,7 @@ Astilbe simplicifolia
 Astilbe sp.
 Astilbe thunbergii
 Astilbe x arendsii
-Astilbe x arendsii 
+Astilbe x arendsii
 Astilbe x crispa
 Astilbe x chinensis
 Astragalus asper
@@ -3173,7 +3171,7 @@ Cleistocactus luribayensis
 Cleistocactus strausii
 Cleistocactus winteri
 Cleistogenes serotina
-Clematis 
+Clematis
 Clematis brachiata
 Clematis brevicaudata
 Clematis campaniflora
@@ -3516,7 +3514,7 @@ Correa backhousiana x reflexa
 Correa decumbens
 Correa glabra
 Correa hybr.
-Correa hybr.  
+Correa hybr.
 Correa lawrenciana
 Correa pulchella
 Correa sp.
@@ -3571,7 +3569,7 @@ Corytoplectus capitatus
 Corytoplectus cutucuensis
 Corytoplectus speciosus
 Cosmos diversifolius
-Costus 
+Costus
 Costus asplundii
 Costus comosus
 Costus curvibracteatus
@@ -4984,7 +4982,7 @@ Echinodorus Indian Red
 Echinodorus inpai
 Echinodorus longiscapus
 Echinodorus major
-"Echinodorus opacus ""Iguazu 2009"""
+Echinodorus opacus "Iguazu 2009"
 Echinodorus portoalegrensis
 Echinodorus subalatus
 Echinodorus veronikae
@@ -6029,7 +6027,7 @@ Geranium gracile
 Geranium gymnocaulon
 Geranium himalayense
 Geranium hybr.
-Geranium hybr. 
+Geranium hybr.
 Geranium christensenianum
 Geranium ibericum
 Geranium incanum
@@ -7583,7 +7581,7 @@ Laelia sincorana
 Laelia speciosa
 Laelia xanthina
 Laelia< x >Cattleya
-Laeliocattleya 
+Laeliocattleya
 Lagarostrobos colensoi
 Lagenandra meeboldii
 Lagenandra ovata
@@ -8893,7 +8891,7 @@ Nephrosperma vanhouteanum
 Nephrosperma vanhoutteanum
 Nephthytis afzelii
 Nephthytis poissoni
-Nephthytis swainei 
+Nephthytis swainei
 Neptunia plena
 Nerine bowdenii
 Nerine hybr.
@@ -9546,7 +9544,7 @@ Pelargonium glutinosum
 Pelargonium gracillimum
 Pelargonium grandicalcaratum
 Pelargonium grandiflorum
-"Pelargonium grandiflorum x crispum ""Minor"""
+Pelargonium grandiflorum x crispum "Minor"
 Pelargonium graveolens
 Pelargonium grenvilleae
 Pelargonium greytonense
@@ -9837,7 +9835,7 @@ Phaius pulchellus
 Phaius sp.
 Phaius tankervilleae
 Phaius tonkinensis
-Phaius x Calanthe 
+Phaius x Calanthe
 Phalaenopsis amabilis
 Phalaenopsis aphrodite
 Phalaenopsis bundtii
@@ -12484,7 +12482,7 @@ Streptocarpus variabilis
 Streptocarpus wendlandii
 Streptopus simplex
 Streptosolen jamesonii
-Strobilanthes auriculata 
+Strobilanthes auriculata
 Strobilanthes rankanensis
 Stromanthe sanguinea
 Strongylodon macrobotrys
@@ -13681,7 +13679,7 @@ Wyethia helianthoides
 Wyethia scabra
 x Achimenantha hybr.
 x Brassocattleya binosa
-x Carmispartium 
+x Carmispartium
 x Carmispartium hutchinsii
 x Cupressocyparis leylandii
 x Heucherella hybr.
